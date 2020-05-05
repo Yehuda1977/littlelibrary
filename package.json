@@ -1,0 +1,24 @@
+{
+  "name": "littlelibrary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yehuda1977/littlelibrary.git"
+  },
+  "author": "Yehuda Rapoport",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yehuda1977/littlelibrary/issues"
+  },
+  "homepage": "https://github.com/Yehuda1977/littlelibrary#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1"
+  }
+}
